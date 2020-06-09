@@ -1,5 +1,4 @@
 # KMMOON-DB-Save-Exception-Info
-Spring Boot에서 Exception 발생 시 Exception Resolver와 Servlet Filter를 이용해 Exception 정보를 DB에 저장합니다.
 
 설명은 Medium blog를 참고해주시길 바랍니다.
 
